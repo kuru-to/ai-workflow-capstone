@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+importlib-metadata = "==1.7.0"
+jupyterlab = "*"
+spyder = "*"
+
+[packages]
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+sklearn = "*"
+logger = "*"
+
+[requires]
+python_version = "3.7"
