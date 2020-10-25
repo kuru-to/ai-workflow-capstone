@@ -13,7 +13,17 @@ numpy = "*"
 pandas = "*"
 matplotlib = "*"
 sklearn = "*"
-logger = "*"
+cython = "*"
+joblib = "*"
+deap = "*"
+update-checker = "*"
+tqdm = "*"
+stopit = "*"
+xgboost = "*"
+dask = {extras = ["dataframe"], version = "*"}
+dask-ml = "*"
+fsspec = ">=0.3.3"
+tpot = "*"
 
 [requires]
 python_version = "3.7"
