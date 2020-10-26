@@ -1,4 +1,4 @@
-name: stan_env
+name: ai-skills-academy
 channels:
   - msys2
   - conda-forge
